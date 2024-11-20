@@ -1,0 +1,26 @@
+[
+{
+    "company": "Amdocs",
+    "role": "DevOps Engineer",
+    "duration": "July 2024 - Present",
+    "projects": [
+        {
+            "title": "FTS",
+            "description": "Set up NPRD and PROD environments in Azure following on-prem requirements, created Linux virtual machines using Azure Portal/ADO console through pipelines, configured Log Analytics workspace for monitoring, set up Azure Virtual Networks (VNets), subnets, network settings, and security policies. Designed and deployed custom Packer images for applications with 3rd-party software. Developed CI/CD pipelines for Java-based applications using Azure DevOps and Maven. Designed Network Security Groups (NSGs) for secure network access and deployed and managed Azure Virtual Machines (VMs) along with compute, storage, and network services. Managed and monitored virtual infrastructure in the cloud, and assisted in migrating applications from on-premises to Azure for non-production environments, ensuring functional configurations with Azure and Tomcat/Maven."
+        }
+      
+    ]
+},
+{
+    "company": "Amdocs",
+    "role": "Associate Software Engineer",
+    "duration": "July 2022 - Jun 2024",
+    "projects": [
+        {
+            "title": "DIRECTV(DTV)",
+            "description": "Provided remote support for servers running telecommunication applications hosted on WebLogic, Apache Tomcat, and Azure Portal on both Linux and Windows platforms. Performed daily health checks to ensure server uptime and application performance. Implemented patches, upgrades, updates, and fixes in accordance with established change management processes. Troubleshot various issues such as server downtime, application failures, port conflicts, database issues, and synchronization problems by analyzing log files. Managed monthly releases and deployments, ensuring all prerequisites and post-deployment validations were met, while minimizing business impact during application traffic handling."
+        }
+    ]
+}
+]
+

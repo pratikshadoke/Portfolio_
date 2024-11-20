@@ -1,0 +1,46 @@
+
+[
+    {
+      "id": 1,
+      "name": "Azure"
+    
+    },
+    {
+      "id": 2,
+      "name": "Ansible"
+    },
+    {
+      "id": 3,
+      "name": "Terraform"
+    },
+    {
+      "id": 4,
+      "name": "Github"
+    },
+    {
+      "id": 5,
+      "name": "CI/CD"
+    },
+    {
+      "id": 6,
+      "name": "Azure Devops"
+    
+    },
+    {
+      "id": 7,
+      "name": "Python"
+    },
+    {
+      "id": 8,
+      "name": "HTML5"
+    },
+    {
+      "id": 9,
+      "name": "ReactJS"
+    },
+    {
+      "id": 10,
+      "name": "Jenkins"
+    }
+  ]
+  
